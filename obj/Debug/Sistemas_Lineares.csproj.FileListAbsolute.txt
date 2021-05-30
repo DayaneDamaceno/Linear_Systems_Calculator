@@ -1,0 +1,10 @@
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\bin\Debug\Sistemas_Lineares.exe.config
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\bin\Debug\Sistemas_Lineares.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\bin\Debug\Sistemas_Lineares.pdb
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.Form1.resources
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.csproj.GenerateResource.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.exe
+E:\Dayane\Faculdade\2_Semestre\Algoritmo\2BIM\N1\Sistemas_Lineares\obj\Debug\Sistemas_Lineares.pdb
